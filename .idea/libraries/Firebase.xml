@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Firebase">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Escritorio/Firebase" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Escritorio/Firebase" recursive="false" />
+  </library>
+</component>
